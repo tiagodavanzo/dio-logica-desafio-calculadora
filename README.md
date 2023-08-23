@@ -1,2 +1,2 @@
-# dio-logica-desafio-calculadora
-Calculadora de Partidas Rankeadas
+# Calculadora de Partidas Rankeadas
+Resolução do desafio, feito em Javascript.
